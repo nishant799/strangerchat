@@ -1,0 +1,11 @@
+{
+  "name": "strangerchat",
+  "version": "1.0.0",
+  "description": "Random text and video chat with strangers (Node.js, Socket.IO, WebRTC)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
